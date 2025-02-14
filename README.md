@@ -1,1 +1,1 @@
-# Purchase-Propensity-Model
+# Purchase Propensity Model
